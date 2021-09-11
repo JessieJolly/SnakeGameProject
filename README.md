@@ -32,6 +32,7 @@ python snakeProject.py
 
 
 ## Contribution
+Jessica Jolly UwU
 I'm just a beginner in programming, so I know there are better ways to implement some of these features. If you know an easier and more efficient way to do so, do let me know!
 
 
